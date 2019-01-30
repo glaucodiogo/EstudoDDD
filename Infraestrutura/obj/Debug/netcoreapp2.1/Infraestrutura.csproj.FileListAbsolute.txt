@@ -1,0 +1,5 @@
+C:\Users\Glauco\source\repos\EstudoDDD\Infraestrutura\bin\Debug\netcoreapp2.1\Dominio.dll
+C:\Users\Glauco\source\repos\EstudoDDD\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\Glauco\source\repos\EstudoDDD\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Glauco\source\repos\EstudoDDD\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\Glauco\source\repos\EstudoDDD\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.AssemblyInfo.cs
