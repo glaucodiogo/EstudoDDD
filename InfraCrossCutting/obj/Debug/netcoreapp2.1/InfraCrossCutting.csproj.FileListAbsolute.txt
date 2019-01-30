@@ -1,0 +1,8 @@
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\bin\Debug\netcoreapp2.1\InfraCrossCutting.deps.json
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\bin\Debug\netcoreapp2.1\InfraCrossCutting.dll
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\bin\Debug\netcoreapp2.1\InfraCrossCutting.pdb
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\obj\Debug\netcoreapp2.1\InfraCrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\obj\Debug\netcoreapp2.1\InfraCrossCutting.AssemblyInfoInputs.cache
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\obj\Debug\netcoreapp2.1\InfraCrossCutting.AssemblyInfo.cs
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\obj\Debug\netcoreapp2.1\InfraCrossCutting.dll
+C:\Users\Glauco\source\repos\EstudoDDD\InfraCrossCutting\obj\Debug\netcoreapp2.1\InfraCrossCutting.pdb
