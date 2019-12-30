@@ -21,7 +21,7 @@ namespace Mvc.Application.Models
 
         [Range(1,1000,ErrorMessage ="Valor de 1 a 1000")]
         [Required(ErrorMessage ="Preencha o campo valor")]
-        [RegularExpression(@"^[0-5]*$",ErrorMessage ="Somente números  ")]
+        //[RegularExpression(@"^[0-5]*$",ErrorMessage ="Somente números  ")]
         public decimal Valor { get; set; }
 
     }

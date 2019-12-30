@@ -19,6 +19,29 @@ namespace Mvc.Application.Controllers
         //[Route("pagina-inicial/{id:int}/{}/categoria:guid")]
         public IActionResult Index()
         {
+            Filme objFilme = new Filme
+            {
+                Titulo = "Star Wars",
+                Genero = "M"
+            };
+
+            return RedirectToAction("ValidandoFilme", "HomeController", objFilme);
+            
+        }
+
+        public IActionResult ValidandoFilme(Filme filme)
+        {
+            if (ModelState.IsValid)
+            {
+
+            }
+
+            //Verifica quais erros ocorreram
+            foreach(var error in ModelState.Values.SelectMany(m => m.Errors))
+            {
+                Console.WriteLine(error.ErrorMessage);
+            }
+
             return View();
         }
 
