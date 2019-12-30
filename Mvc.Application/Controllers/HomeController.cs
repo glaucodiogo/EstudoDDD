@@ -19,13 +19,7 @@ namespace Mvc.Application.Controllers
         //[Route("pagina-inicial/{id:int}/{}/categoria:guid")]
         public IActionResult Index()
         {
-            Filme objFilme = new Filme
-            {
-                Titulo = "Star Wars",
-                Genero = "M"
-            };
-
-            return RedirectToAction("ValidandoFilme", "HomeController", objFilme);
+            return View();
             
         }
 
